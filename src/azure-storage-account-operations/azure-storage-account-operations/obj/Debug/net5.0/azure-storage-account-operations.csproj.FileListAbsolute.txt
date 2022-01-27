@@ -1,0 +1,16 @@
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\bin\Debug\net5.0\azure-storage-account-operations.exe
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\bin\Debug\net5.0\azure-storage-account-operations.deps.json
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\bin\Debug\net5.0\azure-storage-account-operations.runtimeconfig.json
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\bin\Debug\net5.0\azure-storage-account-operations.runtimeconfig.dev.json
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\bin\Debug\net5.0\azure-storage-account-operations.dll
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\bin\Debug\net5.0\ref\azure-storage-account-operations.dll
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\bin\Debug\net5.0\azure-storage-account-operations.pdb
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\obj\Debug\net5.0\azure-storage-account-operations.csproj.AssemblyReference.cache
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\obj\Debug\net5.0\azure-storage-account-operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\obj\Debug\net5.0\azure-storage-account-operations.AssemblyInfoInputs.cache
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\obj\Debug\net5.0\azure-storage-account-operations.AssemblyInfo.cs
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\obj\Debug\net5.0\azure-storage-account-operations.csproj.CoreCompileInputs.cache
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\obj\Debug\net5.0\azure-storage-account-operations.dll
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\obj\Debug\net5.0\ref\azure-storage-account-operations.dll
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\obj\Debug\net5.0\azure-storage-account-operations.pdb
+C:\Users\raman\source\repos\azure-storage-account-operations\src\azure-storage-account-operations\azure-storage-account-operations\obj\Debug\net5.0\azure-storage-account-operations.genruntimeconfig.cache
